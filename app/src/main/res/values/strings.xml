@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FERDINAN_1202150010_MODUL4</string>
+    <string-array name="namaMhs">
+        <item>Afif</item>
+        <item>Aldy</item>
+        <item>Poltak</item>
+        <item>Ronald</item>
+        <item>Anthon</item>
+        <item>Fani</item>
+        <item>Asri</item>
+        <item>Arkan</item>
+        <item>Beatrice</item>
+        <item>Gaby</item>
+        <item>Dylan</item>
+        <item>Valdy</item>
+        <item>Torong</item>
+
+    </string-array>
+</resources>
